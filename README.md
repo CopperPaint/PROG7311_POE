@@ -3,10 +3,10 @@ READ ME
 Target Framwork: .NET Framework 4.8
 Visual Studio Version: 2022 Community
 * This application makes use of MVC architecure
-----------------------------------------------------------------------------------------------------
+
 Welcome! This application is a prototype for the stock management of website of Farm Cental. 
 The application will keep track all the famers, employees and products of the database.
-----------------------------------------------------------------------------------------------------
+
 
 
 CHANGES
@@ -25,19 +25,6 @@ Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
 
 A new GitHub link as been included with the updated files. If the application does not run from the local files,
 please clone the code from the respository
-----------------------------------------------------------------------------------------------------
-
-
-
-GitHub
-----------------------------------------------------------------------------------------------------
-Link:
-https://github.com/CopperPaint/PROG7311_POE
-Username:
-CopperPaint
-----------------------------------------------------------------------------------------------------
-
-
 
 
 RUNNING THE APPLICATION
@@ -58,9 +45,6 @@ Password: Password@123
 Farmer1:
 Username: Farmer1
 Password: Password@123
-----------------------------------------------------------------------------------------------------
-
-
 
 
 HOW TO USE
@@ -116,15 +100,6 @@ Products:
 	To edit a product, click the edit link
 	To delete a product, click the delete link
 	To view the details of a product, click the details link.		
-----------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
 
 
 
